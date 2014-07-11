@@ -1,0 +1,12 @@
+# Site settings
+title: Test Blog for DFA
+email: rice@designforamerica.com
+description: "Testing Jekyll as a blog engine"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
