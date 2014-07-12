@@ -4,3 +4,9 @@ layout: default
 ---
 
 Hello World!
+
+this is a list
+----
+* hi
+* there
+* stefanie!
