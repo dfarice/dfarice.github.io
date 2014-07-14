@@ -1,1 +1,32 @@
+body {
+  padding-top: 50px;
+  min-height: 800px;
+}
+
+footer {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.navbar{
+    background-color: white
+}
+
+.navbar-default .navbar-brand {
+    font-weight: 900;
+    color: black;
+    font-size: 32px;
+    letter-spacing: -2.5px;
+    padding-left: .25em;
+}
+
+.navbar-default .navbar-brand:hover{
+    color: black
+}
+
+#star{
+  padding-top: 6px;
+}
+
+
 
