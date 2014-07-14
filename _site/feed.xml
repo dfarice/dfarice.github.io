@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Blog for DFA</title>
+    <title>DFA Rice | Blog</title>
     <description>Testing Jekyll as a blog engine</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 12 Jul 2014 16:23:10 -0500</pubDate>
-    <lastBuildDate>Sat, 12 Jul 2014 16:23:10 -0500</lastBuildDate>
+    <link>blog.dfarice.com/</link>
+    <atom:link href="blog.dfarice.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 14 Jul 2014 01:04:29 -0500</pubDate>
+    <lastBuildDate>Mon, 14 Jul 2014 01:04:29 -0500</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
@@ -26,8 +26,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Fri, 11 Jul 2014 07:40:33 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/07/11/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/07/11/welcome-to-jekyll/</guid>
+        <link>blog.dfarice.com/jekyll/update/2014/07/11/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">blog.dfarice.com/jekyll/update/2014/07/11/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
@@ -48,8 +48,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 11 Jul 2014 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/2014/07/11/first-post/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/07/11/first-post/</guid>
+        <link>blog.dfarice.com/2014/07/11/first-post/</link>
+        <guid isPermaLink="true">blog.dfarice.com/2014/07/11/first-post/</guid>
         
         
       </item>

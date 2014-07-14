@@ -1,9 +1,9 @@
 # Site settings
-title: Test Blog for DFA
+title: "DFA Rice | Blog"
 email: rice@designforamerica.com
 description: "Testing Jekyll as a blog engine"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "blog.dfarice.com"
 twitter_username: jekyllrb
 github_username:  jekyll
 
