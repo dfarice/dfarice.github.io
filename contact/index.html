@@ -4,8 +4,10 @@ title: Contact
 ---
 
 <div class="container">
+
   <h1>Contact Us</h1>
   <hr>
+
   <form class="form-horizontal" role="form" method="POST" action="http://forms.brace.io/{{ site.email }}">
 
     <div class="form-group">
@@ -45,4 +47,18 @@ title: Contact
     </div>
 
   </form>
+
+
+  <section id="cd-google-map">
+    <!-- #google-container will contain the map  -->
+    <div id="google-container"></div>
+    <!-- #cd-zoom-in and #zoom-out will be used to create our custom buttons for zooming-in/out -->
+    <div id="cd-zoom-in"></div>
+    <div id="cd-zoom-out"></div>
+    <address>6100 Main Street, Houston, Texas 77005</address>
+  </section>
+
 </div>
+
+
+<script src="https://maps.googleapis.com/maps/api/js?key={AIzaSyCxF1YYTb4nmn1MuROQJv7nowj4E1Q1RC8}"></script>
