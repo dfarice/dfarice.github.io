@@ -1,3 +1,4 @@
+/* site-wide */
 body {
   padding-top: 50px;
   min-height: 800px;
@@ -8,6 +9,7 @@ footer {
   padding-top: 50px;
 }
 
+/* navbar */
 .navbar{
     background-color: white
 }
@@ -28,5 +30,23 @@ footer {
   padding-top: 6px;
 }
 
+/* blog stuffs */
 
+.date-author{
+  font-weight:bold;
+}
+
+.sidebar{
+  position: fixed;
+}
+
+.sidebar-link:link,.sidebar-link:visited,
+.sidebar-link:hover{
+  color: black;
+}
+
+.post-header a:link, .post-header a:visited,
+.post-header a:hover{
+  color: black;
+}
 

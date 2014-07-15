@@ -1,11 +1,12 @@
 # Site settings
 title: "DFA Rice | Blog"
 email: rice@designforamerica.com
-description: "Testing Jekyll as a blog engine"
+description: "Design For Americ, Rice Chapter"
 baseurl: ""
-url: "blog.dfarice.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "[blog.dfarice.com]"
+github_username: dfarice
+paginate: 5
+paginate_path: "blog/page:num"
 
 # Build settings
 markdown: kramdown

@@ -3,14 +3,19 @@
 
   {% include head.html %}
 
-    <body>
+  <title>DFA Rice | Blog {% if page.title %} • {{ page.title }}{% endif %}</title>
+
+  <body>
 
     {% include header.html %}
+
 
     <div class="container">
       {{ content }}
       {% include footer.html %}
     </div>
 
-    </body>
+
+  </body>
+
 </html>

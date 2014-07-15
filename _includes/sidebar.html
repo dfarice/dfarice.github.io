@@ -1,0 +1,25 @@
+<div class="container sidebar">
+  <div class='col-xs-3 col-xs-offset-9'>
+
+    <h2>DFA Rice Blog</h2>
+    <article>
+        description, description, description, description, description, description
+    </article>
+
+    <hr>
+
+    <h3>Archive</h3>
+      <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}" class="sidebar-link">{{ post.title }}</a>
+          </li>
+          {% if forloop.index == 7 %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+        <li><a href="archive">Click for more</a></li>
+      </ul>
+
+  </div>
+</div>
