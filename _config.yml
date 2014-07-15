@@ -10,3 +10,7 @@ paginate_path: "blog/page:num"
 # Build settings
 markdown: kramdown
 permalink: pretty
+analytics:
+  provider: google
+  google:
+      tracking_id: 'UA-52838738-1'
