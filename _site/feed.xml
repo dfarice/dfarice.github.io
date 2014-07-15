@@ -2,45 +2,199 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DFA Rice | Blog</title>
-    <description>Design For Americ, Rice Chapter</description>
-    <link>[blog.dfarice.com]/</link>
-    <atom:link href="[blog.dfarice.com]/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 14 Jul 2014 22:46:34 -0500</pubDate>
-    <lastBuildDate>Mon, 14 Jul 2014 22:46:34 -0500</lastBuildDate>
+    <description>Design For America, Rice Chapter</description>
+    <link>http://blog.dfarice.com/</link>
+    <atom:link href="http://blog.dfarice.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 15 Jul 2014 00:07:07 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Jul 2014 00:07:07 -0500</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
-        <title>Hello World!</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;hi&lt;/li&gt;
-  &lt;li&gt;there&lt;/li&gt;
-&lt;/ul&gt;
+        <title>Filler post 9</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas vestibulum sodales. Sed eget turpis consectetur, feugiat purus in, varius ligula. Proin sed congue eros. Donec purus nulla, ullamcorper ut tincidunt eu, consectetur ut velit. In at augue est. Ut faucibus venenatis bibendum. Nullam nec cursus arcu, nec molestie est. Proin arcu nulla, pharetra sit amet tortor ut, feugiat hendrerit neque. In elementum ornare pulvinar. Donec sit amet mi sed sem eleifend tempus at ac orci. Aenean sed justo felis. Aenean eu purus gravida, porta dolor non, hendrerit felis. Sed ac aliquet mi.&lt;/p&gt;
+
+&lt;p&gt;Duis vestibulum ligula nec nunc egestas, in faucibus nisl mattis. Aenean posuere congue enim nec euismod. Vivamus at elit aliquet lorem ultricies rhoncus ac vel elit. Aliquam et laoreet turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris nec dui nunc. Nullam pretium risus lacus, in vulputate risus pellentesque sit amet.&lt;/p&gt;
+
+&lt;p&gt;Morbi justo leo, hendrerit ut dolor eget, venenatis elementum risus. Donec consequat elit eu sodales porttitor. Nunc eu velit in ipsum blandit blandit id sit amet elit. Nulla sollicitudin justo ut viverra tristique. Maecenas in risus erat. Suspendisse euismod dignissim elit quis dignissim. Praesent ultrices neque enim, ac blandit eros ultrices id. Nullam at aliquam metus, porttitor semper urna. Phasellus semper tincidunt tempus. Integer posuere, mi eu accumsan lobortis, tortor lectus blandit risus, vel lobortis quam odio quis eros. Cras aliquet massa nibh, non vehicula dui eleifend id. Nullam aliquam, est a molestie dignissim, dolor diam ullamcorper dui, et commodo diam augue in tellus.&lt;/p&gt;
+
+&lt;p&gt;Integer fermentum lectus ligula, pellentesque porttitor lectus rutrum a. Mauris fringilla, nisl in eleifend fringilla, urna nisl rutrum risus, eget facilisis sapien orci id lectus. Sed ornare vitae diam nec ullamcorper. Nulla ac porttitor magna. Donec id viverra enim, molestie malesuada sem. Nam scelerisque sem nec nisl posuere ornare. Vivamus gravida imperdiet convallis. Sed accumsan, neque et facilisis aliquet, nisi mi molestie enim, in faucibus erat ligula vel eros. Proin in odio sodales, iaculis erat id, vulputate urna.&lt;/p&gt;
+
+&lt;p&gt;Quisque tincidunt iaculis pretium. Pellentesque egestas tempor lorem, at lobortis enim gravida eu. Maecenas tincidunt, sapien ut sollicitudin ultricies, nibh nulla commodo risus, vitae porttitor felis augue sed erat. Etiam elementum elit sit amet felis consectetur venenatis posuere id nulla. Quisque in urna et ante rhoncus lacinia a sit amet dui. Pellentesque faucibus volutpat aliquet. Morbi adipiscing ipsum ut urna feugiat bibendum. Nullam pretium elit vel risus viverra laoreet.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Jul 2014 07:40:33 -0500</pubDate>
-        <link>[blog.dfarice.com]/2014/07/11/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">[blog.dfarice.com]/2014/07/11/welcome-to-jekyll/</guid>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://blog.dfarice.com/2014/07/15/filler-post-9/</link>
+        <guid isPermaLink="true">http://blog.dfarice.com/2014/07/15/filler-post-9/</guid>
         
         
       </item>
     
       <item>
-        <title>Let&#39;s see how this goes</title>
-        <description>&lt;p&gt;abcde fghij lkmno pqrst uvwxyz abcde fghij lkmno pqrst uvwxyz abcde fghij lkmno pqrst uvwxyz abcde fghij lkmno pqrst uvwxyz abcde fghij lkmno pqrst uvwxyz abcde fghij lkmno pqrst uvwxyz abcde fghij lkmno pqrst uvwxyz&lt;/p&gt;
+        <title>Filler post 8</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas vestibulum sodales. Sed eget turpis consectetur, feugiat purus in, varius ligula. Proin sed congue eros. Donec purus nulla, ullamcorper ut tincidunt eu, consectetur ut velit. In at augue est. Ut faucibus venenatis bibendum. Nullam nec cursus arcu, nec molestie est. Proin arcu nulla, pharetra sit amet tortor ut, feugiat hendrerit neque. In elementum ornare pulvinar. Donec sit amet mi sed sem eleifend tempus at ac orci. Aenean sed justo felis. Aenean eu purus gravida, porta dolor non, hendrerit felis. Sed ac aliquet mi.&lt;/p&gt;
 
-&lt;p&gt;hello there&lt;/p&gt;
+&lt;p&gt;Duis vestibulum ligula nec nunc egestas, in faucibus nisl mattis. Aenean posuere congue enim nec euismod. Vivamus at elit aliquet lorem ultricies rhoncus ac vel elit. Aliquam et laoreet turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris nec dui nunc. Nullam pretium risus lacus, in vulputate risus pellentesque sit amet.&lt;/p&gt;
 
-&lt;p&gt;this is a list&lt;/p&gt;
+&lt;p&gt;Morbi justo leo, hendrerit ut dolor eget, venenatis elementum risus. Donec consequat elit eu sodales porttitor. Nunc eu velit in ipsum blandit blandit id sit amet elit. Nulla sollicitudin justo ut viverra tristique. Maecenas in risus erat. Suspendisse euismod dignissim elit quis dignissim. Praesent ultrices neque enim, ac blandit eros ultrices id. Nullam at aliquam metus, porttitor semper urna. Phasellus semper tincidunt tempus. Integer posuere, mi eu accumsan lobortis, tortor lectus blandit risus, vel lobortis quam odio quis eros. Cras aliquet massa nibh, non vehicula dui eleifend id. Nullam aliquam, est a molestie dignissim, dolor diam ullamcorper dui, et commodo diam augue in tellus.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;try&lt;/li&gt;
-  &lt;li&gt;again&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Integer fermentum lectus ligula, pellentesque porttitor lectus rutrum a. Mauris fringilla, nisl in eleifend fringilla, urna nisl rutrum risus, eget facilisis sapien orci id lectus. Sed ornare vitae diam nec ullamcorper. Nulla ac porttitor magna. Donec id viverra enim, molestie malesuada sem. Nam scelerisque sem nec nisl posuere ornare. Vivamus gravida imperdiet convallis. Sed accumsan, neque et facilisis aliquet, nisi mi molestie enim, in faucibus erat ligula vel eros. Proin in odio sodales, iaculis erat id, vulputate urna.&lt;/p&gt;
 
-&lt;p&gt;something else&lt;/p&gt;
+&lt;p&gt;Quisque tincidunt iaculis pretium. Pellentesque egestas tempor lorem, at lobortis enim gravida eu. Maecenas tincidunt, sapien ut sollicitudin ultricies, nibh nulla commodo risus, vitae porttitor felis augue sed erat. Etiam elementum elit sit amet felis consectetur venenatis posuere id nulla. Quisque in urna et ante rhoncus lacinia a sit amet dui. Pellentesque faucibus volutpat aliquet. Morbi adipiscing ipsum ut urna feugiat bibendum. Nullam pretium elit vel risus viverra laoreet.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Jul 2014 00:00:00 -0500</pubDate>
-        <link>[blog.dfarice.com]/2014/07/11/doing-it-again/</link>
-        <guid isPermaLink="true">[blog.dfarice.com]/2014/07/11/doing-it-again/</guid>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://blog.dfarice.com/2014/07/15/filler-post-8/</link>
+        <guid isPermaLink="true">http://blog.dfarice.com/2014/07/15/filler-post-8/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Filler post 7</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas vestibulum sodales. Sed eget turpis consectetur, feugiat purus in, varius ligula. Proin sed congue eros. Donec purus nulla, ullamcorper ut tincidunt eu, consectetur ut velit. In at augue est. Ut faucibus venenatis bibendum. Nullam nec cursus arcu, nec molestie est. Proin arcu nulla, pharetra sit amet tortor ut, feugiat hendrerit neque. In elementum ornare pulvinar. Donec sit amet mi sed sem eleifend tempus at ac orci. Aenean sed justo felis. Aenean eu purus gravida, porta dolor non, hendrerit felis. Sed ac aliquet mi.&lt;/p&gt;
+
+&lt;p&gt;Duis vestibulum ligula nec nunc egestas, in faucibus nisl mattis. Aenean posuere congue enim nec euismod. Vivamus at elit aliquet lorem ultricies rhoncus ac vel elit. Aliquam et laoreet turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris nec dui nunc. Nullam pretium risus lacus, in vulputate risus pellentesque sit amet.&lt;/p&gt;
+
+&lt;p&gt;Morbi justo leo, hendrerit ut dolor eget, venenatis elementum risus. Donec consequat elit eu sodales porttitor. Nunc eu velit in ipsum blandit blandit id sit amet elit. Nulla sollicitudin justo ut viverra tristique. Maecenas in risus erat. Suspendisse euismod dignissim elit quis dignissim. Praesent ultrices neque enim, ac blandit eros ultrices id. Nullam at aliquam metus, porttitor semper urna. Phasellus semper tincidunt tempus. Integer posuere, mi eu accumsan lobortis, tortor lectus blandit risus, vel lobortis quam odio quis eros. Cras aliquet massa nibh, non vehicula dui eleifend id. Nullam aliquam, est a molestie dignissim, dolor diam ullamcorper dui, et commodo diam augue in tellus.&lt;/p&gt;
+
+&lt;p&gt;Integer fermentum lectus ligula, pellentesque porttitor lectus rutrum a. Mauris fringilla, nisl in eleifend fringilla, urna nisl rutrum risus, eget facilisis sapien orci id lectus. Sed ornare vitae diam nec ullamcorper. Nulla ac porttitor magna. Donec id viverra enim, molestie malesuada sem. Nam scelerisque sem nec nisl posuere ornare. Vivamus gravida imperdiet convallis. Sed accumsan, neque et facilisis aliquet, nisi mi molestie enim, in faucibus erat ligula vel eros. Proin in odio sodales, iaculis erat id, vulputate urna.&lt;/p&gt;
+
+&lt;p&gt;Quisque tincidunt iaculis pretium. Pellentesque egestas tempor lorem, at lobortis enim gravida eu. Maecenas tincidunt, sapien ut sollicitudin ultricies, nibh nulla commodo risus, vitae porttitor felis augue sed erat. Etiam elementum elit sit amet felis consectetur venenatis posuere id nulla. Quisque in urna et ante rhoncus lacinia a sit amet dui. Pellentesque faucibus volutpat aliquet. Morbi adipiscing ipsum ut urna feugiat bibendum. Nullam pretium elit vel risus viverra laoreet.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://blog.dfarice.com/2014/07/15/filler-post-7/</link>
+        <guid isPermaLink="true">http://blog.dfarice.com/2014/07/15/filler-post-7/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Filler post 6</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas vestibulum sodales. Sed eget turpis consectetur, feugiat purus in, varius ligula. Proin sed congue eros. Donec purus nulla, ullamcorper ut tincidunt eu, consectetur ut velit. In at augue est. Ut faucibus venenatis bibendum. Nullam nec cursus arcu, nec molestie est. Proin arcu nulla, pharetra sit amet tortor ut, feugiat hendrerit neque. In elementum ornare pulvinar. Donec sit amet mi sed sem eleifend tempus at ac orci. Aenean sed justo felis. Aenean eu purus gravida, porta dolor non, hendrerit felis. Sed ac aliquet mi.&lt;/p&gt;
+
+&lt;p&gt;Duis vestibulum ligula nec nunc egestas, in faucibus nisl mattis. Aenean posuere congue enim nec euismod. Vivamus at elit aliquet lorem ultricies rhoncus ac vel elit. Aliquam et laoreet turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris nec dui nunc. Nullam pretium risus lacus, in vulputate risus pellentesque sit amet.&lt;/p&gt;
+
+&lt;p&gt;Morbi justo leo, hendrerit ut dolor eget, venenatis elementum risus. Donec consequat elit eu sodales porttitor. Nunc eu velit in ipsum blandit blandit id sit amet elit. Nulla sollicitudin justo ut viverra tristique. Maecenas in risus erat. Suspendisse euismod dignissim elit quis dignissim. Praesent ultrices neque enim, ac blandit eros ultrices id. Nullam at aliquam metus, porttitor semper urna. Phasellus semper tincidunt tempus. Integer posuere, mi eu accumsan lobortis, tortor lectus blandit risus, vel lobortis quam odio quis eros. Cras aliquet massa nibh, non vehicula dui eleifend id. Nullam aliquam, est a molestie dignissim, dolor diam ullamcorper dui, et commodo diam augue in tellus.&lt;/p&gt;
+
+&lt;p&gt;Integer fermentum lectus ligula, pellentesque porttitor lectus rutrum a. Mauris fringilla, nisl in eleifend fringilla, urna nisl rutrum risus, eget facilisis sapien orci id lectus. Sed ornare vitae diam nec ullamcorper. Nulla ac porttitor magna. Donec id viverra enim, molestie malesuada sem. Nam scelerisque sem nec nisl posuere ornare. Vivamus gravida imperdiet convallis. Sed accumsan, neque et facilisis aliquet, nisi mi molestie enim, in faucibus erat ligula vel eros. Proin in odio sodales, iaculis erat id, vulputate urna.&lt;/p&gt;
+
+&lt;p&gt;Quisque tincidunt iaculis pretium. Pellentesque egestas tempor lorem, at lobortis enim gravida eu. Maecenas tincidunt, sapien ut sollicitudin ultricies, nibh nulla commodo risus, vitae porttitor felis augue sed erat. Etiam elementum elit sit amet felis consectetur venenatis posuere id nulla. Quisque in urna et ante rhoncus lacinia a sit amet dui. Pellentesque faucibus volutpat aliquet. Morbi adipiscing ipsum ut urna feugiat bibendum. Nullam pretium elit vel risus viverra laoreet.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://blog.dfarice.com/2014/07/15/filler-post-6/</link>
+        <guid isPermaLink="true">http://blog.dfarice.com/2014/07/15/filler-post-6/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Filler post 5</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas vestibulum sodales. Sed eget turpis consectetur, feugiat purus in, varius ligula. Proin sed congue eros. Donec purus nulla, ullamcorper ut tincidunt eu, consectetur ut velit. In at augue est. Ut faucibus venenatis bibendum. Nullam nec cursus arcu, nec molestie est. Proin arcu nulla, pharetra sit amet tortor ut, feugiat hendrerit neque. In elementum ornare pulvinar. Donec sit amet mi sed sem eleifend tempus at ac orci. Aenean sed justo felis. Aenean eu purus gravida, porta dolor non, hendrerit felis. Sed ac aliquet mi.&lt;/p&gt;
+
+&lt;p&gt;Duis vestibulum ligula nec nunc egestas, in faucibus nisl mattis. Aenean posuere congue enim nec euismod. Vivamus at elit aliquet lorem ultricies rhoncus ac vel elit. Aliquam et laoreet turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris nec dui nunc. Nullam pretium risus lacus, in vulputate risus pellentesque sit amet.&lt;/p&gt;
+
+&lt;p&gt;Morbi justo leo, hendrerit ut dolor eget, venenatis elementum risus. Donec consequat elit eu sodales porttitor. Nunc eu velit in ipsum blandit blandit id sit amet elit. Nulla sollicitudin justo ut viverra tristique. Maecenas in risus erat. Suspendisse euismod dignissim elit quis dignissim. Praesent ultrices neque enim, ac blandit eros ultrices id. Nullam at aliquam metus, porttitor semper urna. Phasellus semper tincidunt tempus. Integer posuere, mi eu accumsan lobortis, tortor lectus blandit risus, vel lobortis quam odio quis eros. Cras aliquet massa nibh, non vehicula dui eleifend id. Nullam aliquam, est a molestie dignissim, dolor diam ullamcorper dui, et commodo diam augue in tellus.&lt;/p&gt;
+
+&lt;p&gt;Integer fermentum lectus ligula, pellentesque porttitor lectus rutrum a. Mauris fringilla, nisl in eleifend fringilla, urna nisl rutrum risus, eget facilisis sapien orci id lectus. Sed ornare vitae diam nec ullamcorper. Nulla ac porttitor magna. Donec id viverra enim, molestie malesuada sem. Nam scelerisque sem nec nisl posuere ornare. Vivamus gravida imperdiet convallis. Sed accumsan, neque et facilisis aliquet, nisi mi molestie enim, in faucibus erat ligula vel eros. Proin in odio sodales, iaculis erat id, vulputate urna.&lt;/p&gt;
+
+&lt;p&gt;Quisque tincidunt iaculis pretium. Pellentesque egestas tempor lorem, at lobortis enim gravida eu. Maecenas tincidunt, sapien ut sollicitudin ultricies, nibh nulla commodo risus, vitae porttitor felis augue sed erat. Etiam elementum elit sit amet felis consectetur venenatis posuere id nulla. Quisque in urna et ante rhoncus lacinia a sit amet dui. Pellentesque faucibus volutpat aliquet. Morbi adipiscing ipsum ut urna feugiat bibendum. Nullam pretium elit vel risus viverra laoreet.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://blog.dfarice.com/2014/07/15/filler-post-5/</link>
+        <guid isPermaLink="true">http://blog.dfarice.com/2014/07/15/filler-post-5/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Filler post 4</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas vestibulum sodales. Sed eget turpis consectetur, feugiat purus in, varius ligula. Proin sed congue eros. Donec purus nulla, ullamcorper ut tincidunt eu, consectetur ut velit. In at augue est. Ut faucibus venenatis bibendum. Nullam nec cursus arcu, nec molestie est. Proin arcu nulla, pharetra sit amet tortor ut, feugiat hendrerit neque. In elementum ornare pulvinar. Donec sit amet mi sed sem eleifend tempus at ac orci. Aenean sed justo felis. Aenean eu purus gravida, porta dolor non, hendrerit felis. Sed ac aliquet mi.&lt;/p&gt;
+
+&lt;p&gt;Duis vestibulum ligula nec nunc egestas, in faucibus nisl mattis. Aenean posuere congue enim nec euismod. Vivamus at elit aliquet lorem ultricies rhoncus ac vel elit. Aliquam et laoreet turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris nec dui nunc. Nullam pretium risus lacus, in vulputate risus pellentesque sit amet.&lt;/p&gt;
+
+&lt;p&gt;Morbi justo leo, hendrerit ut dolor eget, venenatis elementum risus. Donec consequat elit eu sodales porttitor. Nunc eu velit in ipsum blandit blandit id sit amet elit. Nulla sollicitudin justo ut viverra tristique. Maecenas in risus erat. Suspendisse euismod dignissim elit quis dignissim. Praesent ultrices neque enim, ac blandit eros ultrices id. Nullam at aliquam metus, porttitor semper urna. Phasellus semper tincidunt tempus. Integer posuere, mi eu accumsan lobortis, tortor lectus blandit risus, vel lobortis quam odio quis eros. Cras aliquet massa nibh, non vehicula dui eleifend id. Nullam aliquam, est a molestie dignissim, dolor diam ullamcorper dui, et commodo diam augue in tellus.&lt;/p&gt;
+
+&lt;p&gt;Integer fermentum lectus ligula, pellentesque porttitor lectus rutrum a. Mauris fringilla, nisl in eleifend fringilla, urna nisl rutrum risus, eget facilisis sapien orci id lectus. Sed ornare vitae diam nec ullamcorper. Nulla ac porttitor magna. Donec id viverra enim, molestie malesuada sem. Nam scelerisque sem nec nisl posuere ornare. Vivamus gravida imperdiet convallis. Sed accumsan, neque et facilisis aliquet, nisi mi molestie enim, in faucibus erat ligula vel eros. Proin in odio sodales, iaculis erat id, vulputate urna.&lt;/p&gt;
+
+&lt;p&gt;Quisque tincidunt iaculis pretium. Pellentesque egestas tempor lorem, at lobortis enim gravida eu. Maecenas tincidunt, sapien ut sollicitudin ultricies, nibh nulla commodo risus, vitae porttitor felis augue sed erat. Etiam elementum elit sit amet felis consectetur venenatis posuere id nulla. Quisque in urna et ante rhoncus lacinia a sit amet dui. Pellentesque faucibus volutpat aliquet. Morbi adipiscing ipsum ut urna feugiat bibendum. Nullam pretium elit vel risus viverra laoreet.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://blog.dfarice.com/2014/07/15/filler-post-4/</link>
+        <guid isPermaLink="true">http://blog.dfarice.com/2014/07/15/filler-post-4/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Filler post 3</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas vestibulum sodales. Sed eget turpis consectetur, feugiat purus in, varius ligula. Proin sed congue eros. Donec purus nulla, ullamcorper ut tincidunt eu, consectetur ut velit. In at augue est. Ut faucibus venenatis bibendum. Nullam nec cursus arcu, nec molestie est. Proin arcu nulla, pharetra sit amet tortor ut, feugiat hendrerit neque. In elementum ornare pulvinar. Donec sit amet mi sed sem eleifend tempus at ac orci. Aenean sed justo felis. Aenean eu purus gravida, porta dolor non, hendrerit felis. Sed ac aliquet mi.&lt;/p&gt;
+
+&lt;p&gt;Duis vestibulum ligula nec nunc egestas, in faucibus nisl mattis. Aenean posuere congue enim nec euismod. Vivamus at elit aliquet lorem ultricies rhoncus ac vel elit. Aliquam et laoreet turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris nec dui nunc. Nullam pretium risus lacus, in vulputate risus pellentesque sit amet.&lt;/p&gt;
+
+&lt;p&gt;Morbi justo leo, hendrerit ut dolor eget, venenatis elementum risus. Donec consequat elit eu sodales porttitor. Nunc eu velit in ipsum blandit blandit id sit amet elit. Nulla sollicitudin justo ut viverra tristique. Maecenas in risus erat. Suspendisse euismod dignissim elit quis dignissim. Praesent ultrices neque enim, ac blandit eros ultrices id. Nullam at aliquam metus, porttitor semper urna. Phasellus semper tincidunt tempus. Integer posuere, mi eu accumsan lobortis, tortor lectus blandit risus, vel lobortis quam odio quis eros. Cras aliquet massa nibh, non vehicula dui eleifend id. Nullam aliquam, est a molestie dignissim, dolor diam ullamcorper dui, et commodo diam augue in tellus.&lt;/p&gt;
+
+&lt;p&gt;Integer fermentum lectus ligula, pellentesque porttitor lectus rutrum a. Mauris fringilla, nisl in eleifend fringilla, urna nisl rutrum risus, eget facilisis sapien orci id lectus. Sed ornare vitae diam nec ullamcorper. Nulla ac porttitor magna. Donec id viverra enim, molestie malesuada sem. Nam scelerisque sem nec nisl posuere ornare. Vivamus gravida imperdiet convallis. Sed accumsan, neque et facilisis aliquet, nisi mi molestie enim, in faucibus erat ligula vel eros. Proin in odio sodales, iaculis erat id, vulputate urna.&lt;/p&gt;
+
+&lt;p&gt;Quisque tincidunt iaculis pretium. Pellentesque egestas tempor lorem, at lobortis enim gravida eu. Maecenas tincidunt, sapien ut sollicitudin ultricies, nibh nulla commodo risus, vitae porttitor felis augue sed erat. Etiam elementum elit sit amet felis consectetur venenatis posuere id nulla. Quisque in urna et ante rhoncus lacinia a sit amet dui. Pellentesque faucibus volutpat aliquet. Morbi adipiscing ipsum ut urna feugiat bibendum. Nullam pretium elit vel risus viverra laoreet.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://blog.dfarice.com/2014/07/15/filler-post-3/</link>
+        <guid isPermaLink="true">http://blog.dfarice.com/2014/07/15/filler-post-3/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Filler post 2</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas vestibulum sodales. Sed eget turpis consectetur, feugiat purus in, varius ligula. Proin sed congue eros. Donec purus nulla, ullamcorper ut tincidunt eu, consectetur ut velit. In at augue est. Ut faucibus venenatis bibendum. Nullam nec cursus arcu, nec molestie est. Proin arcu nulla, pharetra sit amet tortor ut, feugiat hendrerit neque. In elementum ornare pulvinar. Donec sit amet mi sed sem eleifend tempus at ac orci. Aenean sed justo felis. Aenean eu purus gravida, porta dolor non, hendrerit felis. Sed ac aliquet mi.&lt;/p&gt;
+
+&lt;p&gt;Duis vestibulum ligula nec nunc egestas, in faucibus nisl mattis. Aenean posuere congue enim nec euismod. Vivamus at elit aliquet lorem ultricies rhoncus ac vel elit. Aliquam et laoreet turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris nec dui nunc. Nullam pretium risus lacus, in vulputate risus pellentesque sit amet.&lt;/p&gt;
+
+&lt;p&gt;Morbi justo leo, hendrerit ut dolor eget, venenatis elementum risus. Donec consequat elit eu sodales porttitor. Nunc eu velit in ipsum blandit blandit id sit amet elit. Nulla sollicitudin justo ut viverra tristique. Maecenas in risus erat. Suspendisse euismod dignissim elit quis dignissim. Praesent ultrices neque enim, ac blandit eros ultrices id. Nullam at aliquam metus, porttitor semper urna. Phasellus semper tincidunt tempus. Integer posuere, mi eu accumsan lobortis, tortor lectus blandit risus, vel lobortis quam odio quis eros. Cras aliquet massa nibh, non vehicula dui eleifend id. Nullam aliquam, est a molestie dignissim, dolor diam ullamcorper dui, et commodo diam augue in tellus.&lt;/p&gt;
+
+&lt;p&gt;Integer fermentum lectus ligula, pellentesque porttitor lectus rutrum a. Mauris fringilla, nisl in eleifend fringilla, urna nisl rutrum risus, eget facilisis sapien orci id lectus. Sed ornare vitae diam nec ullamcorper. Nulla ac porttitor magna. Donec id viverra enim, molestie malesuada sem. Nam scelerisque sem nec nisl posuere ornare. Vivamus gravida imperdiet convallis. Sed accumsan, neque et facilisis aliquet, nisi mi molestie enim, in faucibus erat ligula vel eros. Proin in odio sodales, iaculis erat id, vulputate urna.&lt;/p&gt;
+
+&lt;p&gt;Quisque tincidunt iaculis pretium. Pellentesque egestas tempor lorem, at lobortis enim gravida eu. Maecenas tincidunt, sapien ut sollicitudin ultricies, nibh nulla commodo risus, vitae porttitor felis augue sed erat. Etiam elementum elit sit amet felis consectetur venenatis posuere id nulla. Quisque in urna et ante rhoncus lacinia a sit amet dui. Pellentesque faucibus volutpat aliquet. Morbi adipiscing ipsum ut urna feugiat bibendum. Nullam pretium elit vel risus viverra laoreet.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://blog.dfarice.com/2014/07/15/filler-post-2/</link>
+        <guid isPermaLink="true">http://blog.dfarice.com/2014/07/15/filler-post-2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Filler post 11</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas vestibulum sodales. Sed eget turpis consectetur, feugiat purus in, varius ligula. Proin sed congue eros. Donec purus nulla, ullamcorper ut tincidunt eu, consectetur ut velit. In at augue est. Ut faucibus venenatis bibendum. Nullam nec cursus arcu, nec molestie est. Proin arcu nulla, pharetra sit amet tortor ut, feugiat hendrerit neque. In elementum ornare pulvinar. Donec sit amet mi sed sem eleifend tempus at ac orci. Aenean sed justo felis. Aenean eu purus gravida, porta dolor non, hendrerit felis. Sed ac aliquet mi.&lt;/p&gt;
+
+&lt;p&gt;Duis vestibulum ligula nec nunc egestas, in faucibus nisl mattis. Aenean posuere congue enim nec euismod. Vivamus at elit aliquet lorem ultricies rhoncus ac vel elit. Aliquam et laoreet turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris nec dui nunc. Nullam pretium risus lacus, in vulputate risus pellentesque sit amet.&lt;/p&gt;
+
+&lt;p&gt;Morbi justo leo, hendrerit ut dolor eget, venenatis elementum risus. Donec consequat elit eu sodales porttitor. Nunc eu velit in ipsum blandit blandit id sit amet elit. Nulla sollicitudin justo ut viverra tristique. Maecenas in risus erat. Suspendisse euismod dignissim elit quis dignissim. Praesent ultrices neque enim, ac blandit eros ultrices id. Nullam at aliquam metus, porttitor semper urna. Phasellus semper tincidunt tempus. Integer posuere, mi eu accumsan lobortis, tortor lectus blandit risus, vel lobortis quam odio quis eros. Cras aliquet massa nibh, non vehicula dui eleifend id. Nullam aliquam, est a molestie dignissim, dolor diam ullamcorper dui, et commodo diam augue in tellus.&lt;/p&gt;
+
+&lt;p&gt;Integer fermentum lectus ligula, pellentesque porttitor lectus rutrum a. Mauris fringilla, nisl in eleifend fringilla, urna nisl rutrum risus, eget facilisis sapien orci id lectus. Sed ornare vitae diam nec ullamcorper. Nulla ac porttitor magna. Donec id viverra enim, molestie malesuada sem. Nam scelerisque sem nec nisl posuere ornare. Vivamus gravida imperdiet convallis. Sed accumsan, neque et facilisis aliquet, nisi mi molestie enim, in faucibus erat ligula vel eros. Proin in odio sodales, iaculis erat id, vulputate urna.&lt;/p&gt;
+
+&lt;p&gt;Quisque tincidunt iaculis pretium. Pellentesque egestas tempor lorem, at lobortis enim gravida eu. Maecenas tincidunt, sapien ut sollicitudin ultricies, nibh nulla commodo risus, vitae porttitor felis augue sed erat. Etiam elementum elit sit amet felis consectetur venenatis posuere id nulla. Quisque in urna et ante rhoncus lacinia a sit amet dui. Pellentesque faucibus volutpat aliquet. Morbi adipiscing ipsum ut urna feugiat bibendum. Nullam pretium elit vel risus viverra laoreet.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://blog.dfarice.com/2014/07/15/filler-post-11/</link>
+        <guid isPermaLink="true">http://blog.dfarice.com/2014/07/15/filler-post-11/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Filler post 9</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas vestibulum sodales. Sed eget turpis consectetur, feugiat purus in, varius ligula. Proin sed congue eros. Donec purus nulla, ullamcorper ut tincidunt eu, consectetur ut velit. In at augue est. Ut faucibus venenatis bibendum. Nullam nec cursus arcu, nec molestie est. Proin arcu nulla, pharetra sit amet tortor ut, feugiat hendrerit neque. In elementum ornare pulvinar. Donec sit amet mi sed sem eleifend tempus at ac orci. Aenean sed justo felis. Aenean eu purus gravida, porta dolor non, hendrerit felis. Sed ac aliquet mi.&lt;/p&gt;
+
+&lt;p&gt;Duis vestibulum ligula nec nunc egestas, in faucibus nisl mattis. Aenean posuere congue enim nec euismod. Vivamus at elit aliquet lorem ultricies rhoncus ac vel elit. Aliquam et laoreet turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris nec dui nunc. Nullam pretium risus lacus, in vulputate risus pellentesque sit amet.&lt;/p&gt;
+
+&lt;p&gt;Morbi justo leo, hendrerit ut dolor eget, venenatis elementum risus. Donec consequat elit eu sodales porttitor. Nunc eu velit in ipsum blandit blandit id sit amet elit. Nulla sollicitudin justo ut viverra tristique. Maecenas in risus erat. Suspendisse euismod dignissim elit quis dignissim. Praesent ultrices neque enim, ac blandit eros ultrices id. Nullam at aliquam metus, porttitor semper urna. Phasellus semper tincidunt tempus. Integer posuere, mi eu accumsan lobortis, tortor lectus blandit risus, vel lobortis quam odio quis eros. Cras aliquet massa nibh, non vehicula dui eleifend id. Nullam aliquam, est a molestie dignissim, dolor diam ullamcorper dui, et commodo diam augue in tellus.&lt;/p&gt;
+
+&lt;p&gt;Integer fermentum lectus ligula, pellentesque porttitor lectus rutrum a. Mauris fringilla, nisl in eleifend fringilla, urna nisl rutrum risus, eget facilisis sapien orci id lectus. Sed ornare vitae diam nec ullamcorper. Nulla ac porttitor magna. Donec id viverra enim, molestie malesuada sem. Nam scelerisque sem nec nisl posuere ornare. Vivamus gravida imperdiet convallis. Sed accumsan, neque et facilisis aliquet, nisi mi molestie enim, in faucibus erat ligula vel eros. Proin in odio sodales, iaculis erat id, vulputate urna.&lt;/p&gt;
+
+&lt;p&gt;Quisque tincidunt iaculis pretium. Pellentesque egestas tempor lorem, at lobortis enim gravida eu. Maecenas tincidunt, sapien ut sollicitudin ultricies, nibh nulla commodo risus, vitae porttitor felis augue sed erat. Etiam elementum elit sit amet felis consectetur venenatis posuere id nulla. Quisque in urna et ante rhoncus lacinia a sit amet dui. Pellentesque faucibus volutpat aliquet. Morbi adipiscing ipsum ut urna feugiat bibendum. Nullam pretium elit vel risus viverra laoreet.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://blog.dfarice.com/2014/07/15/filler-post-10/</link>
+        <guid isPermaLink="true">http://blog.dfarice.com/2014/07/15/filler-post-10/</guid>
         
         
       </item>

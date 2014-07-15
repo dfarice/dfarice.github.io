@@ -26,11 +26,19 @@ footer {
     color: black
 }
 
+/* hard coded glyphicon fixes */
+
 #star{
-  padding-top: 6px;
+  padding-top: 8px;
+}
+
+.glyphicon{
+  vertical-align: top
 }
 
 /* blog stuffs */
+
+
 
 .date-author{
   font-weight:bold;

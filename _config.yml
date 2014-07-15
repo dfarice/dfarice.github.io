@@ -3,7 +3,7 @@ title: "DFA Rice | Blog"
 email: rice@designforamerica.com
 description: "Design For America, Rice Chapter"
 baseurl: ""
-url: "blog.dfarice.com"
+url: "http://blog.dfarice.com"
 github_username: dfarice
 paginate: 5
 paginate_path: "blog/page:num"
