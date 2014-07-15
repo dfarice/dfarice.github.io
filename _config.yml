@@ -13,4 +13,4 @@ markdown: kramdown
 permalink: pretty
 sass:
     style: :compressed
-    css_location: "css"
+    sass_dir: _sass
