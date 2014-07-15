@@ -16,17 +16,17 @@ title: Blog
   <div class="btn-group btn-group-lg">
 
     {% if paginator.previous_page == 1%}
-      <a role="button" href="{{ site.url }}" class="btn btn-default">
+      <a role="button" href="{{ site.url }}/blog" class="btn btn-default">
         <span class="glyphicon glyphicon-chevron-left"></span> Previous
       </a>
     {% elsif paginator.previous_page %}
-      <a role="button" href="/page{{ paginator.previous_page }}" class="btn btn-default">
+      <a role="button" href="/blog/page{{ paginator.previous_page }}" class="btn btn-default">
         <span class="glyphicon glyphicon-chevron-left"></span> Previous
       </a>
     {% endif %}
 
     {% if paginator.next_page %}
-      <a role="button" href="/page{{ paginator.next_page }}" class="btn btn-default">
+      <a role="button" href="/blog/page{{ paginator.next_page }}" class="btn btn-default">
         Next <span class="glyphicon glyphicon-chevron-right"></span>
       </a>
     {% endif %}

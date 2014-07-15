@@ -5,7 +5,7 @@ description: "Design For America, Rice Chapter"
 url: "http://dfarice.com"
 github_username: dfarice
 paginate: 5
-paginate_path: "page:num"
+paginate_path: "blog/page:num"
 
 # Build settings
 markdown: kramdown
