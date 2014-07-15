@@ -15,15 +15,21 @@
 
     <h3>Archive</h3>
       <ul>
+
         {% for post in site.posts %}
+
           <li>
             <a href="{{ post.url }}" class="sidebar-link">{{ post.title }}</a>
           </li>
+
           {% if forloop.index == 7 %}
             {% break %}
           {% endif %}
+
         {% endfor %}
+
         <li><a href="archive">Click for more</a></li>
+
       </ul>
 
   </div>
