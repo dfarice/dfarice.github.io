@@ -2,7 +2,7 @@
 title: "DFA Rice"
 email: rice@designforamerica.com
 description: "Design For America, Rice Chapter"
-url: "http://www.dfarice.com"
+url: "http://dfarice.com"
 github_username: dfarice
 paginate: 5
 paginate_path: "page:num"
