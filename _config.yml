@@ -1,9 +1,9 @@
 # Site settings
 title: "DFA Rice | Blog"
 email: rice@designforamerica.com
-description: "Design For Americ, Rice Chapter"
+description: "Design For America, Rice Chapter"
 baseurl: ""
-url: "[blog.dfarice.com]"
+url: "blog.dfarice.com"
 github_username: dfarice
 paginate: 5
 paginate_path: "blog/page:num"
