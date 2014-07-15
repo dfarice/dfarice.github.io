@@ -47,3 +47,7 @@ footer {
 
 .post-header a:link, .post-header a:visited, .post-header a:hover {
   color: black; }
+
+/* map */
+#cd-google-map, #google-container {
+  width: 100%; }
