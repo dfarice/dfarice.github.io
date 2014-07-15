@@ -1,4 +1,8 @@
 /* site-wide */
+html, body {
+  height: 100%;
+  width: 100%; }
+
 body {
   padding-top: 50px;
   min-height: 800px; }
@@ -48,6 +52,3 @@ footer {
 .post-header a:link, .post-header a:visited, .post-header a:hover {
   color: black; }
 
-/* map */
-#cd-google-map, #google-container {
-  width: 100%; }

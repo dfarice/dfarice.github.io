@@ -13,7 +13,7 @@ title: Contact
     <div class="form-group">
       <label for="inputName" class="col-xs-2 control-label">Name</label>
       <div class="col-xs-4">
-        <input type="text" class="form-control" id="inputName" placeholder="Email">
+        <input type="text" class="form-control" id="inputName" placeholder="Name">
       </div>
     </div>
 
@@ -48,17 +48,14 @@ title: Contact
 
   </form>
 
-
-  <section id="cd-google-map">
-    <div id="google-container"></div>
-    <div id="cd-zoom-in"></div>
-    <div id="cd-zoom-out"></div>
-    <address>6100 Main Street, Houston, Texas 77005</address>
-  </section>
-
-  <script src="{{ site.url }/assets/js/map.js"></script>
-
 </div>
 
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-cVzVDhCkPHlQgxLhbjSbRkj0pnvqncc"></script>
+<style type="text/css">
+  #map-canvas { height: 30%; }
+</style>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-cVzVDhCkPHlQgxLhbjSbRkj0pnvqncc"></script>
+<script type="text/javascript" src="../assets/js/map.js"></script>
+<div class="container">
+  <hr>
+</div>
+<div id="map-canvas"></div>
