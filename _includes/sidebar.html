@@ -1,36 +1,49 @@
 <div class="container sidebar">
-  <div class='col-xs-3 col-xs-offset-9'>
+  <div class='row hidden-xs'>
+    <div class='col-xs-3 col-xs-offset-9'>
 
-    <h2>DFA Rice Blog</h2>
+      <h2>DFA Rice Blog</h2>
 
-    <img src="{{ site.url }}/assets/images/tiny.svg" alt="Cool Picture">
+      <img src="{{ site.url }}/assets/images/tiny.svg" alt="Cool Picture">
 
-    <hr>
+      <hr>
 
-    <article>
-        description, description, description, description, description, description
-    </article>
+      <article>
+          description, description, description, description, description, description
+      </article>
 
-    <hr>
+      <hr>
 
-    <h3>Archive</h3>
-      <ul>
+      <h3>Archive</h3>
+        <ul>
 
-        {% for post in site.posts %}
+          {% for post in site.posts %}
 
-          <li>
-            <a href="{{ post.url }}" class="sidebar-link">{{ post.title }}</a>
-          </li>
+            <li>
+              <a href="{{ post.url }}" class="sidebar-link">{{ post.title }}</a>
+            </li>
 
-          {% if forloop.index == 7 %}
-            {% break %}
-          {% endif %}
+            {% if forloop.index == 7 %}
+              {% break %}
+            {% endif %}
 
-        {% endfor %}
+          {% endfor %}
 
-        <li><a href="archive">Click for more</a></li>
+          <li><a href="archive">Click for more</a></li>
 
-      </ul>
+        </ul>
 
+    </div>
   </div>
+
+  <div class='row visible-xs-block'>
+    <div class='col-xs-2 col-xs-offset-10'>
+
+      <h3>DFA Rice Blog</h3>
+      <h4><a href="archive">Archive</a></h4>
+
+    </div>
+  </div>
+
 </div>
+
