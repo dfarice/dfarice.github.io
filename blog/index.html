@@ -21,13 +21,13 @@ title: Blog
       </a>
     {% elsif paginator.previous_page %}
       <a role="button" href="/blog/page{{ paginator.previous_page }}" class="btn btn-default">
-        <span class="glyphicon glyphicon-chevron-left"></span> Previous
+        <i class="fa fa-chevron-left"></i> Previous
       </a>
     {% endif %}
 
     {% if paginator.next_page %}
       <a role="button" href="/blog/page{{ paginator.next_page }}" class="btn btn-default">
-        Next <span class="glyphicon glyphicon-chevron-right"></span>
+        Next <i class="fa fa-chevron-right"></i>
       </a>
     {% endif %}
 
