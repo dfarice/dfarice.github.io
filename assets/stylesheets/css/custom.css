@@ -35,6 +35,11 @@ footer {
   .navbar-default .navbar-brand:hover {
     color: black; }
 
+#lovett {
+  max-width: 20%;
+  float: none;
+  margin: 0 auto; }
+
 /* hard coded glyphicon fixes */
 #star {
   padding-top: 8px; }
@@ -51,4 +56,3 @@ footer {
 
 .post-header a:link, .post-header a:visited, .post-header a:hover {
   color: black; }
-
