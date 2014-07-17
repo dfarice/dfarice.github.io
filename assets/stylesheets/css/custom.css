@@ -35,8 +35,7 @@ footer {
   .navbar-default .navbar-brand:hover {
     color: black; }
 
-#lovett {
-  max-width: 20%;
+.col-centered {
   float: none;
   margin: 0 auto; }
 
