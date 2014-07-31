@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Filler post 1
+title: Studio Profile - Mac
 date: 2014-07-15
 author: "James Lockard"
 ---
